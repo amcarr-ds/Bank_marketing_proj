@@ -1,5 +1,5 @@
 # ds_programming_final
-Final Team Project for ADS-500B: Data Science Programming
+## Final Team Project for ADS-500B: Data Science Programming
 Aaron Carr & Claire Phibbs
 
 Software Language: \
